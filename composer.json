@@ -1,0 +1,13 @@
+{
+	
+    "require": {
+        "illuminate/database": "^9.19"
+    },
+    "autoload":{
+        "classmap": [
+            "app/models",
+            "vendor/core",
+            "app/controllers"
+        ]
+    }
+}
