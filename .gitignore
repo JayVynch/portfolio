@@ -1,0 +1,9 @@
+/vendor/bin
+/vendor/composer
+/vendor/doctrine
+/vendor/illuminate
+/vendor/nesbot
+/vendor/psr
+/vendor/symfony
+/vendor/voku
+/vendor/autoload.php
